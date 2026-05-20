@@ -146,7 +146,5 @@ This project is intended for academic and research purposes.
 
 ## Author
 
-- Mohammed Maaz Alam
-- Mohammed Abdul Kalam Khan
-- Mahammed Saadullah
+- Manchali Akshaya
 
